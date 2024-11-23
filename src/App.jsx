@@ -73,7 +73,7 @@ export default function App() {
         ))}
       </Grid>
       <Button onClick={signOut}>Sign Out</Button>
-	  <Text>Created by: Michael Haapasaari</Text>
+	  <Heading>Created by: Michael Haapasaari</Heading>
     </Flex>
   );
 }
